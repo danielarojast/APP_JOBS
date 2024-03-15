@@ -1,0 +1,80 @@
+{
+  "companies": [
+    {
+      "id": "2034",
+      "email": "admin@riwi.io",
+      "nameCompany": "Riwi",
+      "imageCompany": "https://riwi.io/wp-content/uploads/2023/07/Fondo-claro-logo.png",
+      "nit": "90212132",
+      "password": "Riwi"
+    },
+    {
+      "id": "2035",
+      "email": "admin@google.com",
+      "nameCompany": "Google",
+      "imageCompany": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/800px-Google_2015_logo.svg.png",
+      "nit": "90212132",
+      "password": "Riwi"
+    },
+    {
+      "id": "6273",
+      "email": "nuevacompany@gmail.com",
+      "nameCompany": "nueva Compañia",
+      "imageCompany": "../../assets/img/9433441.jpg",
+      "nit": "5308755",
+      "password": "123"
+    },
+    {
+      "id": "7034",
+      "email": "admin@riwi.io",
+      "nameCompany": "prueba1",
+      "imageCompany": "../../assets/img/9433441.jpg",
+      "nit": "4876864",
+      "password": "123"
+    },
+    {
+      "id": "2496",
+      "email": "daniprueba@gmail.com",
+      "nameCompany": "Prueba Daniela",
+      "imageCompany": "../../assets/img/9433441.jpg",
+      "nit": "2464913",
+      "password": "1234"
+    }
+  ],
+  "jobs": [
+    {
+      "id": "2660",
+      "title": "trabajo original 2",
+      "description": "descripcion2",
+      "publicationDate": "Mon Feb 12 2024",
+      "location": "bog",
+      "experience": "1",
+      "modality": "Remote",
+      "salary": "4"
+    },
+    {
+      "id": "8249",
+      "title": "trabajo original",
+      "description": "descripion",
+      "publicationDate": "Mon Feb 12 2024",
+      "location": "med",
+      "experience": "5",
+      "modality": "Remote",
+      "salary": "1000000",
+      "imagen": "../../assets/img/logo.webp",
+      "companyId": ""
+    },
+    {
+      "id": "2466",
+      "title": "ultima prueba",
+      "description": "descripocion ultima",
+      "publicationDate": "Mon Feb 12 2024",
+      "location": "med",
+      "experience": "5",
+      "modality": "Remote",
+      "salary": "5",
+      "imagen": "../../assets/img/logo.webp",
+      "companyId": ""
+    }
+  ]
+}
